@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "802909024263",
+    "project_id": "orbysell",
+    "storage_bucket": "orbysell.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802909024263:android:32cb731ab46b6e2820baa2",
+        "android_client_info": {
+          "package_name": "com.example.orbyx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802909024263-dtktqgeore3o4ldllufociki8dj2t1qo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCarLtrqt5yPYt3aJvvstMYFa4I7Ncp4Ws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "802909024263-dtktqgeore3o4ldllufociki8dj2t1qo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
